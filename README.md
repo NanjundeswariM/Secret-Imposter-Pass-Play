@@ -137,7 +137,9 @@ The application automatically adjusts for:
 ✅ Tablets  
 ✅ Desktop browsers  
 
-Features:
+---
+
+# Features:
 
 - Mobile-first design
 - Flexible layout
